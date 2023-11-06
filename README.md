@@ -2,9 +2,9 @@
 
 ## Módulos:
 
-### Módulo 1: Introducción a la Ciberseguridad
+### [Módulo 1: Introducción a la Ciberseguridad](./Modulo_1.md)
 
-* introducción  ![Capsula 1 ](./Modulo_1.md)
+* introducción
 
 * Conceptos básicos de ciberseguridad y regulaciones vigentes.
 
