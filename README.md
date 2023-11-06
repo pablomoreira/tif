@@ -4,7 +4,7 @@
 
 ### Módulo 1: Introducción a la Ciberseguridad
 
-* introducción  ![Capsula 1 ](./audio.ogg)
+* introducción  ![Capsula 1 ](./Modulo_1.md)
 
 * Conceptos básicos de ciberseguridad y regulaciones vigentes.
 
