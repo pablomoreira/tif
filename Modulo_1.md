@@ -1,4 +1,4 @@
-### Módulo 1: ![Audio](./capsula1)
+### Módulo 1: ![Audio](./capsula1.ogg)
 
 El audio tiene como objetivo plantear un panorama inicial introductoria a la ciberseguridad. Existe una problemática que se encuentra en crecimiento y genera inconvenientes a organizaciones públicas y privadas que, aparte de generar perjuicios económicos y deterioro de imagen, también, en el caso de entes públicos, problemas con servicios esenciales como la salud y la educación.
 
