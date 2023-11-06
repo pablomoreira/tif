@@ -4,7 +4,7 @@
 
 ### Módulo 1: Introducción a la Ciberseguridad
 
-* introducción  ![Capsula 1](https://github.com/pablomoreira/tif/raw/master/capsula1.ogg)
+* introducción  ![Capsula 1 ](./audio.ogg)
 
 * Conceptos básicos de ciberseguridad y regulaciones vigentes.
 
@@ -52,7 +52,7 @@
 
 * Verificación de sitios web seguros.
 
-### Módulo 8: Seguridad en Correo Electrónico y Mensajería
+### [Módulo 8: Seguridad en Correo Electrónico y Mensajería](./Modulo_8.md)
 
 * Cómo evitar el correo no deseado y el malware.
 
@@ -66,4 +66,4 @@
 
 * Cómo reportar incidentes de seguridad.
 
-* Mantenerse actualizado sobre las amenazas cibernéticas.
+* Mantenerse actualizado sobre las amenazas cibernéticas.s
