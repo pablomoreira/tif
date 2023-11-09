@@ -8,7 +8,9 @@ El audio es una introducción al mundo de la ciberseguridad y su relevancia en l
 
 Aborda conceptos clave, como el ciberespacio, la ciberguerra y los ciberdelincuentes, resaltando cómo la tecnología ha evolucionado y se ha convertido en un campo de batalla en constante crecimiento. Se mencionan las amenazas actuales, incluyendo ataques de ransomware y el papel de los "bots" en los ataques cibernéticos.
 
-Además, se plantean preguntas importantes relacionadas con la ciberseguridad, como el alcance de las amenazas, las leyes que regulan estos delitos y los problemas éticos y el impacto en las libertades individuales. El se centra la importancia de la capacitación continua y de dotar a los miembros de las organizaciones de conocimientos sólidos en ciberseguridad como un medio para prevenir desastres y mejorar la seguridad informática.
+Además, se plantean preguntas importantes relacionadas con el alcance de las amenazas, las leyes que regulan estos delitos y los problemas éticos y el impacto en las libertades individuales. 
+
+Se hace hincapié la importancia de la capacitación continua en las organizaciones de afianzando conocimientos sólidos en ciberseguridad como un medio para prevenir desastres y mejorar la seguridad informática.
 
 # Infografía sobre ransomware
 
