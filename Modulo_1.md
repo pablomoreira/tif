@@ -1,6 +1,8 @@
 # Módulo 1:
 
-## [![Introducción Link a la capsuala](./fWHgpdiAyck_320x180.jpg)](https://youtu.be/fWHgpdiAyck?si=E0WjpnBIjpsWG-89)
+## Audio:
+
+[![Introducción Link a la capsuala](./fWHgpdiAyck_320x180.jpg)](https://youtu.be/fWHgpdiAyck?si=E0WjpnBIjpsWG-89)
 
 El audio es una introducción al mundo de la ciberseguridad y su relevancia en la sociedad actual. Se destaca la creciente problemática de la ciberdelincuencia y su impacto en organizaciones públicas y privadas, incluyendo sectores vitales como la salud y la educación. Se plantea la necesidad de concienciar a mandos medios y líderes de empresas y entidades públicas sobre los riesgos y desafíos asociados con la ciberseguridad.
 

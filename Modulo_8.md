@@ -8,7 +8,7 @@
 
 * Cuidado al descargar archivos adjuntos.
 
-## Cápsula sobre deteccion de correos fraudulentos o maliciosos
+## Cápsula sobre detección de correos fraudulentos o maliciosos
 
 [![Link](./EJLUrRNfw3U_320x180.jpg)](https://youtu.be/EJLUrRNfw3U?si=gdCPFKmK9lLhVsQS)
 
