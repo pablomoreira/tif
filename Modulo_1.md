@@ -32,4 +32,4 @@ Se hace hincapié la importancia de la capacitación continua en las organizacio
 
 7. ¿He considerado mi nivel de conocimiento en ciberseguridad y la importancia de la capacitación continua?
 
-8. ¿Puedo explicar la importancia de generar conciencia y conocimientos sólidos en ciberseguridad
+8. ¿Puedo explicar la importancia de generar conciencia y conocimientos sólidos en ciberseguridad?
