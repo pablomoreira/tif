@@ -18,7 +18,7 @@
 
 [![Link](./kUVEU-MU1QY_320x180.jpg)](https://youtu.be/kUVEU-MU1QY?si=VG7xCs8iiy7se9X0)
 
-## ## Autoevaluación relacionadas con el módulo para el alumno:
+## Autoevaluación relacionadas con el módulo para el alumno:
 
 ¿ Qué características o patrones se pueden detectar en correos maliciosos en general?
 
