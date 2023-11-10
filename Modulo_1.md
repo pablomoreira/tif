@@ -28,7 +28,7 @@ Se hace hincapié la importancia de la capacitación continua en las organizacio
 
 5. ¿Comprendo la diferencia entre los ataques de ransomware y otros tipos de ciberataques?
 
-6. ¿Entiendo las implicaciones éticas y el impacto en las libertades mencionadas en el texto?
+6. ¿Entiendo las implicaciones éticas y el impacto en las libertades?
 
 7. ¿He considerado mi nivel de conocimiento en ciberseguridad y la importancia de la capacitación continua?
 
