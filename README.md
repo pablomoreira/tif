@@ -52,7 +52,7 @@
 
 * Verificación de sitios web seguros.
 
-### [Módulo 8: Seguridad en Correo Electrónico y Mensajería](./Modulo_8.md)
+### [Módulo 7: Seguridad en Correo Electrónico y Mensajería](./Modulo_7.md)
 
 * Cómo evitar el correo no deseado y el malware.
 

@@ -1,4 +1,4 @@
-# Módulo 8: Seguridad en Correo Electrónico y Mensajería
+# Módulo 7: Seguridad en Correo Electrónico y Mensajería
 
 * Cómo evitar el correo no deseado y el malware.
 
