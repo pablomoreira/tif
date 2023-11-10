@@ -21,6 +21,9 @@
 ## ## Autoevaluación relacionadas con el módulo para el alumno:
 
 ¿ Qué características o patrones se pueden detectar en correos maliciosos en general?
+
 ¿ Cómo describe el carácter de los mensajes en relación a su contenido y qué buscan generar en el lector?
+
 ¿Qué ventajas presentan los antivirus en línea y qué tipo de información presentan?
+
 ¿Es posible utilizar un IA para analizar correos electrónicos?
