@@ -58,7 +58,7 @@
 
 * Seguridad en aplicaciones de mensajería.
 
-* Cuidado al descargar archivos adjuntos.
+* Cuidados al descargar archivos adjuntos.
 
 ### Módulo 8: Comportamiento Seguro en Línea
 

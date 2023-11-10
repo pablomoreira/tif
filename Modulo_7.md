@@ -4,7 +4,7 @@
 
 * Seguridad en aplicaciones de mensajería.
 
-* Cuidado al descargar archivos adjuntos.
+* Cuidados al descargar archivos adjuntos.
 
 ## Cápsula sobre detección de correos fraudulentos o maliciosos
 
